@@ -1,4 +1,4 @@
 {
-  "server_ip": "172.20.10.4",
+  "server_ip": "localhost",
   "port": 8080
 }
