@@ -1,0 +1,8 @@
+{
+  "server_ip": "0.0.0.0",
+  "port": 8080,
+  "MAX_CONNECTIONS": 20,
+  "MAX_CONNECTIONS_PER_IP": 3,
+  "MAX_REQUESTS_PER_SECOND": 10,
+  "BLOCK_TIME": 60
+}

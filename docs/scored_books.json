@@ -1,0 +1,50 @@
+[
+    {
+        "isbn": "9789655111835",
+        "book": "\u05db\u05d5\u05d7 - 48 \u05d4\u05d7\u05d5\u05e7\u05d9\u05dd",
+        "score": 0.0,
+        "thumbnail": "Kein Bild vorhanden"
+    },
+    {
+        "isbn": "9788233977719",
+        "book": "Graphic Novels Influence",
+        "score": 0.0,
+        "thumbnail": null
+    },
+    {
+        "isbn": "9789655520477",
+        "book": "\u05e0\u05e9\u05d5\u05d0\u05d4 \u05dc\u05d0\u05de\u05e8\u05d9\u05e7\u05d4",
+        "score": 0.0,
+        "thumbnail": "Kein Bild vorhanden"
+    },
+    {
+        "isbn": "9780838935699",
+        "book": "Best Books for Young Adults",
+        "score": 0.0,
+        "thumbnail": "http://books.google.com/books/content?id=P842fHCIOq0C&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "isbn": "9780802841568",
+        "book": "Preaching Jesus",
+        "score": 0.0,
+        "thumbnail": "http://books.google.com/books/content?id=8onYdMN1G5kC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "isbn": "9789654489249",
+        "book": "\u05d6\u05db\u05e8\u05d5\u05e0\u05d5\u05ea\u05d9\u05d4 \u05e9\u05dc \u05d2\u05d9\u05d9\u05e9\u05d4",
+        "score": 0.0,
+        "thumbnail": "Kein Bild vorhanden"
+    },
+    {
+        "isbn": "9780618618774",
+        "book": "100 Best Books for Children",
+        "score": 0.0,
+        "thumbnail": "http://books.google.com/books/content?id=hCy2cHGJUgkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    },
+    {
+        "isbn": "9798887471310",
+        "book": "A Little about A Lot",
+        "score": 0.0,
+        "thumbnail": "http://books.google.com/books/content?id=QITrEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+    }
+]

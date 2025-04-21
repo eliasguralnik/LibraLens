@@ -1,0 +1,42 @@
+[
+    {
+        "session_id": 123,
+        "client_socket": "client_socket",
+        "created_at": 1742485649.7039301,
+        "last_activity": 1742485649.7039301,
+        "authenticated": true,
+        "username": "elias"
+    },
+    {
+        "session_id": 123,
+        "client_socket": "client_socket",
+        "created_at": 1742485663.4256918,
+        "last_activity": 1742485663.425693,
+        "authenticated": true,
+        "username": "elias"
+    },
+    {
+        "session_id": 123,
+        "client_socket": "client_socket",
+        "created_at": 1742485664.59866,
+        "last_activity": 1742485664.5986612,
+        "authenticated": true,
+        "username": "elias"
+    },
+    {
+        "session_id": 123,
+        "client_socket": "client_socket",
+        "created_at": 1742485701.91607,
+        "last_activity": 1742485701.916071,
+        "authenticated": false,
+        "username": null
+    },
+    {
+        "session_id": 223,
+        "client_socket": "client_socket",
+        "created_at": 1742485702.740335,
+        "last_activity": 1742485702.740339,
+        "authenticated": true,
+        "username": "elias"
+    }
+]
