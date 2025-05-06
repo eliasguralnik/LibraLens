@@ -5,8 +5,8 @@ from datetime import datetime, timedelta
 import re
 from server.database import get_all_student_emails
 
-EMAIL = "guralnikelias390@gmail.com"
-PASSWORD = "jyrk krnj hxcr qfoy"
+EMAIL = "youremail@gmail.com"
+PASSWORD = "yourpassword"
 IMAP_SERVER = "imap.gmail.com"
 
 
