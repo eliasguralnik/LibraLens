@@ -63,7 +63,7 @@ To begin using the project, you'll need to start both the server and the client.
    - Run the following command to start the server:
 
    ```bash
-   python server.py
+   python main.py
    ```
    This will initialize the server and make it ready to accept client connections.
 <br><br>
@@ -71,7 +71,7 @@ To begin using the project, you'll need to start both the server and the client.
     - In a separate terminal window, navigate to the client directory.
     - Run the following command to start the client:
    ```bash
-   python server.py
+   python main.py
    ```
    The client will now attempt to connect to the server using the IP address and port settings you configured in the config.json files.
 
