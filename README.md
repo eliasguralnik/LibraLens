@@ -32,7 +32,7 @@ Before running this project, make sure you have Python installed on your system.
 #### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/eliasguralnik/LibraLens.git
+git clone https://github.com/eliasguralnik/LibraLens.git LibraLens-LMS
 cd LibraLens-LMS
 ```
 
