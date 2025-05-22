@@ -7,9 +7,9 @@ from jinja2 import Template
 def send_message(receiver_name, receiver_email, status, book_title):
     smtp_server = "smtp.gmail.com"
     smtp_port = 465
-    sender_email = "guralnikelias390@gmail.com"
+    sender_email = "your-email-address"
     from_email = "Libra Lens"
-    password = "jyrk krnj hxcr qfoy"
+    password = "your-password"
 
     data = {
         "student_name": receiver_name,
